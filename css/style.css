@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+}
+
+.head {
+    background-color: white;
+    padding: 15px 20px 0;
+    margin: 0 99.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first-img img {}
+
+.headtext {
+    display: flex;
+    margin: auto;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "open sans", "helvetica neus", Helvetica, Arial, sans-serif;
+    line-height: 1.65px;
+    margin-bottom: 20px;
+    color: #222;
+    font-size: 20px;
+}
+
+.ankerlink {
+    margin: 10px;
+    padding: 10px;
+}
+
+.navber ul {
+    list-style: none;
+    margin-left: 60px;
+    letter-spacing: 1px;
+}
+
+.navber li {
+    display: flex;
+    letter-spacing: 1px;
+    font-weight: 400;
+    list-style: none;
+}
+
+.navber a {
+    display: flex;
+    text-decoration: none;
+    padding: 12px 20px 12px 16px;
+    list-style: none;
+    color: #575757;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.heading h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.q {
+    background-color: white;
+    padding: 15px 20px;
+    margin: 0 99.6px;
+    display: flex;
+    flex-direction: row;
+}
+
+.product img {
+    width: 100%;
+    margin-left: 5px;
+}
+
+.product p {
+    text-align: center;
+}
+
+.c p {
+    font-weight: 700;
+    color: #222;
+}
+
+.footer {
+    width: 100%;
+    background-color: #232323;
+    padding-bottom: 80px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo img {
+    margin-left: 140px;
+    margin-top: 100px;
+}
+
+.use p {
+    font-size: 15px;
+    color: white;
+    margin-left: 140px;
+    font-family: "open sans", "helvetica neus", Helvetica, Arial, sans-serif;
+}
+
+.links h2 {
+    font-size: 20px;
+    color: white;
+    margin-left: 140px;
+    margin-top: 130px;
+    margin-bottom: 40px;
+    font-family: "open sans", "helvetica neus", Helvetica, Arial, sans-serif;
+}
+
+.socialicons img {}
